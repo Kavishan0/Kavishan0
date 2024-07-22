@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://github.com/kavishan0">
         <img align="center"
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&color=AAFF00&lines=HI!!+I+am+cyber+kaviyh+..."
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&color=AAFF00&lines=HI!!+I+am+CYBER+KAVIYH+..."
             alt="Typing SK"
         />
     </a>
